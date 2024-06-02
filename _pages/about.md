@@ -7,7 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Since August 2022, I am a PhD student at the Department of Physics, Indian Institute of Technology, Kharagpur, India. I work in Gravitational Physics under the supervision of [Prof. Sayan Kar](https://inspirehep.net/authors/1003662?ui-citation-summary=true).
+Since August 2022, I am a PhD student at the Department of Physics, Indian Institute of
+Technology, Kharagpur, India. I work in Gravitational Physics under the supervision of
+[Prof. Sayan Kar](https://inspirehep.net/authors/1003662?ui-citation-summary=true).
+
+The focus of my current research is in the field of Gravity, where one searches for
+systems such as regular black holes, wormholes, and other singularity-free solutions 
+via solving Einstein's field equation with some exotic or regular matter sources and 
+studies of their different observable properties.
 
 A data-driven personal website
 ======
