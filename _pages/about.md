@@ -24,25 +24,8 @@ I care about promoting open, collaborative, and reproducible science. In my free
 find me reading story books or playing a videogame.
 
 
-
-    <style>
-        ul {
-            list-style: none;
-            padding-left: 0;
-        }
-
-        li {
-            position: relative;
-            display: inline-block;
-            width: 100%; /* To make each bullet point take up the full width */
-            padding-left: 30px; /* Adjust the padding to make room for the icon */
-            margin-bottom: 20px; /* Add some spacing between items */
-        }
-    </style>
-
-
 <div style="display: inline-block; vertical-align: top;">
-    <h3 style="font-size: 18px;">Research Interest</h3>
+    <h3 style="font-size: 20px;">Research Interest</h3>
     <ul>
         <li>Regular spacetimes</li>
         <li>Black hole shadow</li>
@@ -55,7 +38,7 @@ find me reading story books or playing a videogame.
     </ul>
 </div>
 <div style="display: inline-block; vertical-align: top;">
-    <h3 style="font-size: 18px;">Education</h3>
+    <h3 style="font-size: 20px;">Education</h3>
     <ul>
         <li>Ph.D. in Physics, July 2022 - present <br> Indian Institute of Technology Kharagpur </li>
         <li>M.Sc. in Physics, August 2020 - April 2022 <br> Indian Institute of Technology Kharagpur </li>
