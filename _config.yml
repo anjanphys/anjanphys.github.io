@@ -14,7 +14,7 @@ name                     : &name "Anjan Kar"
 description              : &description "personal description"
 url                      : https://anjanphys.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "anjanphys/anjanphys.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -31,7 +31,7 @@ author:
   email            : "anjankar.phys@gmail.com" 
 
   # Academic websites
-  inspirehep       : "https://inspirehep.net/authors/2742955?ui-citation-summary=true"
+  #inspirehep       : "https://inspirehep.net/authors/2742955?ui-citation-summary=true"
   googlescholar    : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0009-8623-3596"
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
