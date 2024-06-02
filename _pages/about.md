@@ -24,8 +24,35 @@ I care about promoting open, collaborative, and reproducible science. In my free
 find me reading story books or playing a videogame.
 
 
+<div style="display: inline-block; vertical-align: top;">
+    <h3>Research Interest</h3>
+    <ul>
+        <li>Black hole shadow</li>
+        <li>Gravitational lensing</li>
+        <li>Quasinormal modes</li>
+        <li>Stability under perturbation</li>
+        <li>Gravitational collapse</li>
+        <li>Black hole thermodynamics</li>
+        <li>Rotating spacetimes</li>
+    </ul>
+</div>
+<div style="display: inline-block; vertical-align: top;">
+    <h3>Title 2</h3>
+    <ul>
+        <li>First bullet point</li>
+        <li>Second bullet point
+            <ul>
+                <li>Sub bullet point 1</li>
+                <li>Sub bullet point 2</li>
+            </ul>
+        </li>
+        <li>Third bullet point</li>
+    </ul>
+</div>
+
 Research Interest
 ------
+- Black hole shadow
 - Gravitational lensing
 - Quasinormal modes 
 - Stability under perturbation
