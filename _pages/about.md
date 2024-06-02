@@ -24,18 +24,28 @@ I care about promoting open, collaborative, and reproducible science. In my free
 find me reading story books or playing a videogame.
 
 
-Research Interest
-======
-1. Black hole shadow
-1. Gravitational lensing
-1. Quasinormal modes 
-1. Stability under perturbation
-1. Gravitational collapse
-1. Black hole thermodynamics
-1. Rotating black holes  
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Research Interest</b></td>
+    <td><b style="font-size:30px">Education</b></td>
+ </tr>
+ <tr>
+    <td>- Black hole shadow
+- Gravitational lensing
+- Quasinormal modes 
+- Stability under perturbation
+- Gravitational collapse
+- Black hole thermodynamics
+- Rotating spacetimes  </td>
+    <td>- Ph.D. in Physics, July 2022 - present
+- M.Sc. in Physics, August 2020 - April 2022
+- B.Sc. in Physics, August 2017 - June 2020</td>
+ </tr>
+</table>
+ 
 
 Education
 ------
-1. Ph.D. in Physics, July 2022 - present
-1. M.Sc. in Physics, August 2020 - April 2022
-1. B.Sc. in Physics, August 2017 - June 2020
+- Ph.D. in Physics, July 2022 - present
+- M.Sc. in Physics, August 2020 - April 2022
+- B.Sc. in Physics, August 2017 - June 2020
