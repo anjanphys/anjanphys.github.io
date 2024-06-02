@@ -25,8 +25,9 @@ find me reading story books or playing a videogame.
 
 
 <div style="display: inline-block; vertical-align: top;">
-    <h3>Research Interest</h3>
+    <h3 style="font-size: 18px;">Research Interest</h3>
     <ul>
+        <li>Regular spacetimes</li>
         <li>Black hole shadow</li>
         <li>Gravitational lensing</li>
         <li>Quasinormal modes</li>
@@ -37,32 +38,10 @@ find me reading story books or playing a videogame.
     </ul>
 </div>
 <div style="display: inline-block; vertical-align: top;">
-    <h3>Title 2</h3>
+    <h3 style="font-size: 18px;">Education</h3>
     <ul>
-        <li>First bullet point</li>
-        <li>Second bullet point
-            <ul>
-                <li>Sub bullet point 1</li>
-                <li>Sub bullet point 2</li>
-            </ul>
-        </li>
-        <li>Third bullet point</li>
+        <li>Ph.D. in Physics, July 2022 - present <br> Indian Institute of Technology Kharagpur </li>
+        <li>M.Sc. in Physics, August 2020 - April 2022 <br> Indian Institute of Technology Kharagpur </li>
+        <li>B.Sc. in Physics, August 2017 - June 2020 <br> Vidyasagar University</li>
     </ul>
 </div>
-
-Research Interest
-------
-- Black hole shadow
-- Gravitational lensing
-- Quasinormal modes 
-- Stability under perturbation
-- Gravitational collapse
-- Black hole thermodynamics
-- Rotating spacetimes 
- 
-
-Education
-------
-- Ph.D. in Physics, July 2022 - present
-- M.Sc. in Physics, August 2020 - April 2022
-- B.Sc. in Physics, August 2017 - June 2020
