@@ -24,26 +24,26 @@ author:
   avatar           : "IMG-20231129-WA0407.jpg"
   name             : "Anjan Kar"
   pronouns         : # example: "he/him"  
-  bio              : "Doctoral student in gravitational physics"
+  bio              : "Ph.D. physics student"
   location         : "Kharagpur, India"
   employer         : "Indian Institute of Technology Kharagpur"
   uri              : # URL
   email            : "anjankar.phys@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  inspirehep       : "https://inspirehep.net/authors/2742955?ui-citation-summary=true"
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-8623-3596"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  #linkedin         : "https://www.linkedin.com/in/anjan-kar-6927b6218/"
+  researchgate     : "https://www.researchgate.net/profile/Anjan-Kar-2"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "anjanphys"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : anjan-kar-6927b6218
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
