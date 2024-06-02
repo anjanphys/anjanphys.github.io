@@ -24,12 +24,7 @@ I care about promoting open, collaborative, and reproducible science. In my free
 find me reading story books or playing a videogame.
 
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <!-- Include Font Awesome CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-WGtAsLh7O0C+o2II7ELf1WdZxx9W3L2G9F27hAGdUyU0rI30ZfRmz4L++kbA9KTPmD20ebTmUjXTgCeKxXa4iA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
     <style>
         ul {
             list-style: none;
@@ -43,16 +38,7 @@ find me reading story books or playing a videogame.
             padding-left: 30px; /* Adjust the padding to make room for the icon */
             margin-bottom: 20px; /* Add some spacing between items */
         }
-
-        li::before {
-            content: "\f19d"; /* Unicode for the icon, adjust as needed */
-            font-family: 'Font Awesome 5 Free';
-            font-weight: 900; /* Adjust the weight as needed */
-            font-size: 16px; /* Adjust the size as needed */
-            margin-right: 10px; /* Add some spacing between the icon and the text */
-        }
     </style>
-</head>
 
 
 <div style="display: inline-block; vertical-align: top;">
