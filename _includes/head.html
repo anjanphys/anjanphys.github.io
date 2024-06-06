@@ -19,12 +19,13 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
- <title>Display Image</title>
-    <style>
-        /* Adjust the width as needed */
-        img {
-            width: 100px;
-            height: auto; /* This maintains the aspect ratio */
-            float: right; /* Aligns the image to the right */
-        }
-    </style>
+ <title>Two Images Side by Side</title>
+<style>
+  .image-container {
+    display: flex; /* Use flexbox for layout */
+  }
+  .image-container img {
+    width: 50%; /* Each image takes up 50% of the container width */
+    height: auto; /* Maintain aspect ratio */
+  }
+</style>
