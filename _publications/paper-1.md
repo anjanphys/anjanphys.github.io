@@ -2,7 +2,7 @@
 title: "Novel regular black holes: geometry, source and shadow"
 collection: publications
 permalink: /publication/paper-1
-excerpt: 'A different kind of regular black hole discussed. Its geometric features are explored. <br> The probable matter sources are also mentioned. Alongwith the shadow profile is <br> derived and compared with observation.'
+excerpt: 'A different kind of regular black hole discussed. Its geometric features are explored. <br> The probable matter sources are also mentioned. Along with the shadow profile is <br> derived and compared with observation.'
 date: 2024-04-29
 venue: 'General Relativity and Gravitation'
 paperurl: 'https://doi.org/10.1007/s10714-024-03238-4'
