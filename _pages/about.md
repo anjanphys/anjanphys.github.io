@@ -24,20 +24,20 @@ find me reading story books or playing a videogame.
 
 
 <div style="display: inline-block; vertical-align: top;">
-    <h3 style="font-size: 20px;">Research Interest</h3>
+    <h3 style="font-size: 30px;">Research Interest</h3>
     <ul>
         <li>Regular spacetimes</li>
         <li>Black hole shadow</li>
         <li>Gravitational lensing</li>
         <li>Quasinormal modes</li>
-        <li>Stability under perturbation</li>
+        <li>Stability analysis</li>
         <li>Gravitational collapse</li>
         <li>Black hole thermodynamics</li>
         <li>Rotating spacetimes</li>
     </ul>
 </div>
 <div style="display: inline-block; vertical-align: top;">
-    <h3 style="font-size: 20px;">Education</h3>
+    <h3 style="font-size: 30px;">Education</h3>
     <ul>
         <li>Ph.D. in Physics, July 2022 - present <br> Indian Institute of Technology, Kharagpur, India </li>
         <li>M.Sc. in Physics, August 2020 - April 2022 <br> Indian Institute of Technology, Kharagpur, India </li>
