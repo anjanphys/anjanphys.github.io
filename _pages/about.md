@@ -24,7 +24,7 @@ find me reading story books or playing a videogame.
 
 
 <div style="display: inline-block; vertical-align: top;">
-    <h3 style="font-size: 30px;">Research Interest</h3>
+    <h3 style="font-size: 23px;">Research Interest</h3>
     <ul>
         <li>Regular spacetimes</li>
         <li>Black hole shadow</li>
@@ -37,7 +37,7 @@ find me reading story books or playing a videogame.
     </ul>
 </div>
 <div style="display: inline-block; vertical-align: top;">
-    <h3 style="font-size: 30px;">Education</h3>
+    <h3 style="font-size: 23px;">Education</h3>
     <ul>
         <li>Ph.D. in Physics, July 2022 - present <br> Indian Institute of Technology, Kharagpur, India </li>
         <li>M.Sc. in Physics, August 2020 - April 2022 <br> Indian Institute of Technology, Kharagpur, India </li>
