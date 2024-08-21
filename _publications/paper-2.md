@@ -2,7 +2,6 @@
 title: "Aspects of a novel nonlinear electrodynamics in flat spacetime and in a gravity-coupled scenario"
 collection: publications
 permalink: /publication/paper-2
-excerpt: 'A novel nonlinear electrodynamics (NLE) model with two dimensionful parameters is introduced and investigated.'
 date: 2024-06-15
 venue: 'arXiv:2406.10577'
 paperurl: 'https://arxiv.org/abs/2406.10577v1'
