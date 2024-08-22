@@ -14,11 +14,6 @@ Understanding the end conclusion of gravitational collapse of initially stable s
 
 
 ## Nonlinear electrodynamics
-Description of the second topic goes here.
+In Maxwell’s electrodynamics, a point charge's electric field and self-energy exhibit a divergence as the radial distance approaches zero. One of the well-known procedures to address this issue involves modifying Maxwell’s linear Lagrangian nonlinearly, which makes the self-energy of a point charge finite. However, we consider to what extent we can benefit from this process and whether eliminating spacetime singularities is eventually possible. We couple these nonlinear electrodynamic Lagrangians with general relativity and look for non-singular spacetime solutions.
 
-### Results
-- **Result 1:** Brief description of the result.
-- **Result 2:** Brief description of the result.
-
-![Figure 3](assets/images/teaching/figure3.jpg)  
-*Figure 3: Description of the figure.*
+## Black hole shadow
