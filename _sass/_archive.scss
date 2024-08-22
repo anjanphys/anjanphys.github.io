@@ -1,7 +1,3 @@
-/* ==========================================================================
-   ARCHIVE
-   ========================================================================== */
-
 .archive {
   margin-bottom: 2em;
 
@@ -15,14 +11,14 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none; // Remove underline from all links by default
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: underline; // Underline on hover
+    }
 
-      img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
-      }
+    img {
+      box-shadow: 0 0 10px rgba(#000, 0.25);
     }
   }
 }
@@ -42,19 +38,7 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
-
-  a + a {
-    opacity: 0.5;
-  }
-}
-
-/* remove border*/
-.page__content {
-
-  .archive__item-title {
-    margin-top: 1em;
-    border-bottom: none;
-  }
+  text-decoration: none; // Remove underline from the title
 }
 
 .archive__item-excerpt {
@@ -69,6 +53,7 @@
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
+
   img {
     width: 100%;
   }
@@ -80,15 +65,27 @@
   }
 
   .archive__item-title {
-    text-decoration: underline;
+    text-decoration: none; // Ensure no underline on hover
   }
 }
 
+/* Add More Info section */
+.archive__item-more-info {
+  margin-top: 1em;
+  padding: 1em;
+  border-top: 1px solid $border-color;
 
-/*
-   List view
-   ========================================================================== */
+  a {
+    color: #007BFF; // Link color
+    text-decoration: none; // Remove underline from links
+  }
 
+  a:hover {
+    text-decoration: underline; // Underline on hover
+  }
+}
+
+/* List view */
 .list__item {
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
@@ -107,11 +104,7 @@
   }
 }
 
-
-/*
-   Grid view
-   ========================================================================== */
-
+/* Grid view */
 .grid__item {
   margin-bottom: 2em;
 
@@ -136,8 +129,8 @@
   }
 
   @include breakpoint($medium) {
-    margin-left: 0; /* reset before mixin does its thing*/
-    margin-right: 0; /* reset before mixin does its thing*/
+    margin-left: 0; /* reset before mixin does its thing */
+    margin-right: 0; /* reset before mixin does its thing */
     @include gallery(2.5 of 10);
 
     .archive__item-teaser {
@@ -151,11 +144,7 @@
   }
 }
 
-
-/*
-   Features
-   ========================================================================== */
-
+/* Features */
 .feature__wrapper {
   @include clearfix();
   margin-bottom: 2em;
@@ -243,3 +232,4 @@
     }
   }
 }
+
