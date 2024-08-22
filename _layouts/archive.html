@@ -19,6 +19,39 @@ layout: default
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
-    {{ content }}
+
+    {% assign posts = site.publications %} <!-- Adjust if necessary to match your collection name -->
+
+    {% for post in posts %}
+      <div class="archive__item">
+        <article itemscope itemtype="http://schema.org/CreativeWork">
+          <!-- Title -->
+          <h2 class="archive__item-title" itemprop="headline">
+            {% if post.paperurl %}
+              <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a>
+            {% else %}
+              {{ post.title }}
+            {% endif %}
+          </h2>
+
+          <!-- Venue -->
+          {% if post.venue %}
+            <p>Published in <i>{{ post.venue }}</i></p>
+          {% endif %}
+
+          <!-- More Info Section -->
+          {% if post.citation or post.paperurl %}
+            <div class="archive__item-more-info">
+              {% if post.citation %}
+                <p>Recommended citation: {{ post.citation }}</p>
+              {% endif %}
+              {% if post.paperurl %}
+                <p><a href="{{ post.paperurl }}" target="_blank">Download Paper</a></p>
+              {% endif %}
+            </div>
+          {% endif %}
+        </article>
+      </div>
+    {% endfor %}
   </div>
 </div>
