@@ -18,6 +18,10 @@ layout: compress
 
     {{ content }}
 
+    {% if page.author_profile %}
+      {% include author-profile.html %}
+    {% endif %}
+
     <div class="page__footer">
       <footer>
         {% include footer/custom.html %}
@@ -29,3 +33,4 @@ layout: compress
 
   </body>
 </html>
+
