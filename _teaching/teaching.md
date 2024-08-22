@@ -5,19 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
+My research is mostly on classical general relativity and some observational perspectives.
 
 ## Regular black holes
 ![Image](/images/RBH.jpeg){: .align-right width='200px'}
-Solving the puzzle of singularity in spacetime is crucial to understanding the final outcome of the gravitational collapse of initially stable structures. Regular black holes are recognised as possible options for non-singular solutions. In Figure, a typical static, spherically symmetric regular black hole is presented. It is clear that regular black holes replace the singularity point of the vacuum BHs in Einstein's GR with a 'regular core'. We focus on constructing novel regular black holes and studying their different properties.
+Understanding the end conclusion of gravitational collapse of initially stable structures requires solving the singularity problem in spacetime. Regular black holes are acknowledged as viable possibilities for non-singular solutions. The figure depicts a typical static, spherically symmetric, regular black hole. Regular black holes clearly replace the singularity point of vacuum BHs in Einstein's GR with a `regular core'. We concentrate on creating innovative regular black holes and studying their several features.
 
-### Results
-- **Result 1:** Brief description of the result.
-- **Result 2:** Brief description of the result.
 
-![Figure 1](assets/images/teaching/figure1.jpg)  
-*Figure 1: Description of the figure.*
 
-## Topic 2: [Another Topic Title]
+## Nonlinear electrodynamics
 Description of the second topic goes here.
 
 ### Results
