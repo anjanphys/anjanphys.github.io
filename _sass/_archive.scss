@@ -1,3 +1,6 @@
+/*
+ * Archive Styles
+ * ========================================================================== */
 .archive {
   margin-bottom: 2em;
 
@@ -11,86 +14,82 @@
   }
 
   a {
-    text-decoration: none; // Remove underline from all links by default
+    text-decoration: underline;
 
     &:hover {
-      text-decoration: underline; // Underline on hover
-    }
+      text-decoration: underline;
 
-    img {
-      box-shadow: 0 0 10px rgba(#000, 0.25);
+      img {
+        box-shadow: 0 0 10px rgba(#000, 0.25);
+      }
     }
   }
 }
 
-.archive__subtitle {
-  margin: 1.414em 0 0;
-  padding-bottom: 0.5em;
-  font-size: $type-size-5;
-  color: mix(#fff, $gray, 25%);
+/* Archive Item Styles */
+.archive__item {
+  margin-bottom: 2em;
   border-bottom: 1px solid $border-color;
-
-  + .list__item .archive__item-title {
-    margin-top: 0.5em;
-  }
-}
-
-.archive__item-title {
-  margin-bottom: 0.25em;
-  font-family: $sans-serif-narrow;
-  text-decoration: none; // Remove underline from the title
-}
-
-.archive__item-excerpt {
-  margin-top: 0;
-  font-size: $type-size-6;
-
-  & + p {
-    text-indent: 0;
-  }
-}
-
-.archive__item-teaser {
-  border-radius: $border-radius;
-  overflow: hidden;
-
-  img {
-    width: 100%;
-  }
-}
-
-.archive__item:hover {
-  .archive__item-teaser {
-    box-shadow: 0 0 10px rgba(#000, 0.25);
-  }
+  padding-bottom: 1em;
 
   .archive__item-title {
-    text-decoration: none; // Ensure no underline on hover
+    margin-bottom: 0.25em;
+    font-family: $sans-serif-narrow;
+    font-size: $type-size-5;
+    
+    a {
+      text-decoration: none; /* Remove underline */
+    }
   }
-}
 
-/* Add More Info section */
-.archive__item-more-info {
-  margin-top: 1em;
-  padding: 1em;
-  border-top: 1px solid $border-color;
-
-  p {
-    margin: 0;
+  .archive__item-excerpt {
+    margin-top: 0;
     font-size: $type-size-6;
+
+    & + p {
+      text-indent: 0;
+    }
   }
 
-  a {
-    color: #007BFF; // Link color
-    text-decoration: none; // Remove underline from links
+  .archive__item-teaser {
+    border-radius: $border-radius;
+    overflow: hidden;
+    img {
+      width: 100%;
+    }
   }
 
-  a:hover {
-    text-decoration: underline; // Underline on hover
+  .archive__item-more-info {
+    margin-top: 2em;
+    padding-top: 1em;
+    border-top: 1px solid $border-color;
+
+    p {
+      margin: 0 0 1em;
+    }
+
+    a {
+      color: $link-color;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  &:hover {
+    .archive__item-teaser {
+      box-shadow: 0 0 10px rgba(#000, 0.25);
+    }
+
+    .archive__item-title {
+      text-decoration: underline;
+    }
   }
 }
 
-/* List view */
+/* List View Styles */
 .list__item {
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
@@ -109,7 +108,7 @@
   }
 }
 
-/* Grid view */
+/* Grid View Styles */
 .grid__item {
   margin-bottom: 2em;
 
@@ -134,8 +133,8 @@
   }
 
   @include breakpoint($medium) {
-    margin-left: 0; /* reset before mixin does its thing */
-    margin-right: 0; /* reset before mixin does its thing */
+    margin-left: 0; /* reset before mixin does its thing*/
+    margin-right: 0; /* reset before mixin does its thing*/
     @include gallery(2.5 of 10);
 
     .archive__item-teaser {
@@ -149,7 +148,7 @@
   }
 }
 
-/* Features */
+/* Feature Styles */
 .feature__wrapper {
   @include clearfix();
   margin-bottom: 2em;
