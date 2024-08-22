@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Preprints
+## Preprints
 <ul>
 {% for publication in site.publications %}
   {% if publication.category == "preprints" %}
@@ -19,7 +19,7 @@ author_profile: true
 </ul>
 
 
-# Journal Articles
+## Journal Articles
 <ul>
 {% for publication in site.publications %}
   {% if publication.category == "journal" %}
