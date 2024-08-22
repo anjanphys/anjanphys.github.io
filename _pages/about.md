@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I'm Anjan"
+title: "Welcome to Anjan's page"
 author_profile: true
 redirect_from: 
   - /about/
