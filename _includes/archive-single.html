@@ -47,25 +47,17 @@
     {% endif %}
 
     <div class="archive__item-more-info">
-      <p>We propose a two-parameter, static and spherically symmetric regular geometry, which, for specific parameter values represents a regular black hole. The matter required to support such spacetimes within the framework of General Relativity (GR), is found to violate the energy conditions, though not in the entire domain of the radial coordinate. A particular choice of the parameters reduces the regular black hole to a singular, mutated Reissner-Nordstrom geometry. It also turns out that our regular black hole is geodesically complete. Fortunately, despite energy condition violation, we are able to construct a viable source, within the framework of GR coupled to matter, for our regular geometry. The source term involves a nonlinear magnetic monopole in a chosen version of nonlinear electrodynamics. We also suggest an alternative approach towards constructing a source, using the effective Einstein equations which arise in the context of braneworld gravity. Finally, we obtain the circular shadow profile of our regular black hole and provide a preliminary estimate of the metric parameters using recent observational results from the EHT collaboration.</p>
-      
-      {% if post.citation and post.paperurl %}
-        <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
-      {% elsif post.citation %}
-        <p>Recommended citation: {{ post.citation }}</p>
-      {% elsif post.paperurl %}
-        <p><a href="{{ post.paperurl }}">Download Paper</a></p>
-      {% endif %}
-      
-      {% if post.slidesurl %}
-        <p>Download <a href="{{ post.slidesurl }}">Slides</a></p>
-      {% endif %}
-      
+      <h3>More Info</h3>
+      <p><strong>Date:</strong> {{ post.date | date: "%B %d, %Y" }}</p>
+      <p><strong>Venue:</strong> {{ post.venue }}</p>
+      <p><strong>Paper URL:</strong> <a href="{{ post.paperurl }}">{{ post.paperurl }}</a></p>
+      <p><strong>Citation:</strong> {{ post.citation }}</p>
       <a href="{{ base_path }}{{ post.url }}" rel="permalink">More Info</a>
     </div>
 
   </article>
 </div>
+
 
 
 
