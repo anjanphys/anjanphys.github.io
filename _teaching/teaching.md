@@ -5,10 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Research
 
-## Topic 1: [Topic Title]
-Description of the topic goes here. Explain the research focus, methodology, or background.
+## Regular black holes
+![Image](/images/RBH.jpeg){: .align-right width='200px'}
+Solving the puzzle of singularity in spacetime is crucial to understanding the final outcome of the gravitational collapse of initially stable structures. Regular black holes are recognised as possible options for non-singular solutions. In Figure, a typical static, spherically symmetric regular black hole is presented. It is clear that regular black holes replace the singularity point of the vacuum BHs in Einstein's GR with a 'regular core'. We focus on constructing novel regular black holes and studying their different properties.
 
 ### Results
 - **Result 1:** Brief description of the result.
