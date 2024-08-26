@@ -7,29 +7,39 @@ author_profile: true
 
 {% include base_path %}
 
-<div class="archive">
-  <div class="archive__posts">
-    {% for post in site.portfolio %}
-      <div class="archive__item">
-        <article class="archive__item-content">
-          {% if post.header.teaser %}
-            <img src="{{ post.header.teaser }}" alt="" class="archive__item-teaser">
-          {% endif %}
+<div class="content-wrapper">
+  {% for post in site.portfolio %}
+    <div class="archive__item">
+      <article class="archive__item-content">
+        {% if post.header.teaser %}
+          <img src="{{ post.header.teaser }}" alt="" class="archive__item-teaser">
+        {% endif %}
 
-          <h2 class="archive__item-title" style="text-decoration: none;">
-            {{ post.title }}
-          </h2>
+        <h2 class="archive__item-title" style="text-decoration: none;">
+          {{ post.title }}
+        </h2>
 
-          {% if post.excerpt %}
-            <p>{{ post.excerpt | markdownify }}</p>
-          {% endif %}
+        {% if post.excerpt %}
+          <p>{{ post.excerpt | markdownify }}</p>
+        {% endif %}
 
-          <a href="{{ post.url }}" style="color: #007bff; text-decoration: underline;">More Info</a>
-        </article>
-      </div>
-    {% endfor %}
-  </div>
+        <a href="{{ post.url }}" style="color: #007bff; text-decoration: underline;">More Info</a>
+      </article>
+    </div>
+  {% endfor %}
 </div>
 
+<style>
+  .content-wrapper {
+    margin: 0 auto;
+    padding: 0 15px;
+  }
 
+  .archive__item {
+    margin-bottom: 30px;
+  }
 
+  .archive__item-title {
+    margin-bottom: 10px;
+  }
+</style>
