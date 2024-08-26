@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Anjan's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Anjan Kar"
 description              : &description "personal description"
