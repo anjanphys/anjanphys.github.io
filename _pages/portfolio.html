@@ -1,5 +1,5 @@
 ---
-layout: portfolio-single
+layout: archive
 title: "Gallery"
 permalink: /portfolio/
 author_profile: true
@@ -7,8 +7,29 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.portfolio %}
-  {% include portfolio-single.html %}
-{% endfor %}
+<div class="archive">
+  <div class="archive__posts">
+    {% for post in site.portfolio %}
+      <div class="archive__item">
+        <article class="archive__item-content">
+          {% if post.header.teaser %}
+            <img src="{{ post.header.teaser }}" alt="" class="archive__item-teaser">
+          {% endif %}
+
+          <h2 class="archive__item-title" style="text-decoration: none;">
+            {{ post.title }}
+          </h2>
+
+          {% if post.excerpt %}
+            <p>{{ post.excerpt | markdownify }}</p>
+          {% endif %}
+
+          <a href="{{ post.url }}" style="color: #007bff; text-decoration: underline;">More Info</a>
+        </article>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
 
 
