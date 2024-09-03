@@ -11,6 +11,7 @@ author_profile: true
   {% if publication.category == "preprints" %}
     <li>
       <h2>{{ publication.title }}</h2>
+      <p><strong>Authors:</strong> {{ publication.authors }}</p>
       <p><strong>Venue:</strong> {{ publication.venue }}</p>
       <a href="{{ publication.url }}">More Info</a>
     </li>
@@ -25,6 +26,7 @@ author_profile: true
   {% if publication.category == "journal" %}
     <li>
       <h2>{{ publication.title }}</h2>
+      <p><strong>Authors:</strong> {{ publication.authors }}</p>
       <p><strong>Venue:</strong> {{ publication.venue }}</p>
       <a href="{{ publication.url }}">More Info</a>
     </li>
