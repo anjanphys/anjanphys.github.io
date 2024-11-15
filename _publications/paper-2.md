@@ -1,5 +1,5 @@
 ---
-title: "Aspects of a novel nonlinear electrodynamics in flat spacetime and in a gravity-coupled scenario"
+title: "A new rotating Lorentzian wormhole spacetime"
 collection: publications
 date: 2024-06-15
 authors: "Anjan Kar"
