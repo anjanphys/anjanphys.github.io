@@ -1,12 +1,12 @@
 ---
 title: "A new rotating Lorentzian wormhole spacetime"
 collection: publications
-date: 2024-06-15
-authors: "Anjan Kar"
+date: 2024-11-15
+authors: "Anjan Kar, Soumya Jana and Sayan Kar"
 venue: 'arXiv (2024)'
-paperurl: 'https://arxiv.org/abs/2406.10577v1'
-citation: 'Anjan Kar, arXiv:2406.10577 [gr-qc]'
+paperurl: 'https://doi.org/10.48550/arXiv.2411.09202'
+citation: 'Anjan Kar, Soumya Jana and Sayan Kar, arXiv:2411.09202 [gr-qc]'
 category: "preprints"
 ---
 
-A novel nonlinear electrodynamics (NLE) model with two dimensionful parameters is introduced and investigated. Our model obeys the Maxwellian limit and exhibits behaviour similar to the Born-Infeld Lagrangian in the weak field limit. It is shown that the electric field of a point charge in this model has a definite maximum value. Thus, the self-energy of the point charge is finite. The phenomenon of vacuum birefringence is found to occur in the presence of an external uniform electric field. Causality and unitarity conditions for all background electric fields hold, whereas, for magnetic fields, a restricted domain of validity is found. Moreover, a minimal coupling of Einstein's General Relativity (GR) with this NLE results in solutions of regular black holes or naked singularities, depending on whether the source is a nonlinear magnetic monopole or an electric charge, respectively. 
+A rotating version of a known static, spherically symmetric, zero Ricci scalar Lorentzian wormhole is constructed. It turns out that for this given non-rotating geometry, the standard Newman-Janis algorithm does not produce a rotating wormhole and, therefore, the method pioneered by Azreg-Aïnou has to be used. The rotating spacetime thus obtained is shown to be regular with wormhole features, though it is no longer a R=0 spacetime. The required matter is found to violate the energy conditions, as expected. A few other characteristic properties of this new rotating spacetime are mentioned. Finally, we calculate the shadow for this geometry and discuss its features {\em vis-a-vis} the Kerr geometry and available EHT observations
