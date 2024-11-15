@@ -1,7 +1,6 @@
 ---
 title: "A new rotating Lorentzian wormhole spacetime"
 collection: publications
-permalink: /publication/paper-2
 date: 2024-11-15
 authors: "Anjan Kar, Soumya Jana and Sayan Kar"
 venue: 'arXiv (2024)'
