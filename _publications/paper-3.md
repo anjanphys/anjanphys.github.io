@@ -1,7 +1,7 @@
 ---
 title: "Aspects of a novel nonlinear electrodynamics in flat spacetime and in a gravity-coupled scenario"
 collection: publications
-permalink: /publication/paper-2
+permalink: /publication/paper-3
 date: 2024-06-15
 authors: "Anjan Kar"
 venue: 'arXiv (2024)'
