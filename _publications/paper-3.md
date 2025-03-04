@@ -1,7 +1,7 @@
 ---
 title: "New rotating Lorentzian wormhole spacetime"
 collection: publications
-date: 2024-01-01
+date: 2025-03-03
 authors: "Anjan Kar, Soumya Jana and Sayan Kar"
 venue: 'Physical Review D (2025)'
 paperurl: 'https://doi.org/10.1103/PhysRevD.111.064010'
