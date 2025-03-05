@@ -1,7 +1,7 @@
 ---
 title: "Aspects of a novel nonlinear electrodynamics in flat spacetime and in a gravity-coupled scenario"
 collection: publications
-date: 2024-01-01
+date: 2024-12-02
 authors: "Anjan Kar"
 venue: ' The European Physical Journal C (2024)'
 paperurl: 'https://doi.org/10.1140/epjc/s10052-024-13603-x'
