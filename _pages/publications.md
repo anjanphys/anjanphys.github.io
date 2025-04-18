@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprints
+<h2 class="preprint-heading">Preprints</h2>
 {% assign preprints = site.publications | where: "category", "preprints" | sort: "date" | reverse %}
 {% for publication in preprints %}
   <p><strong>{{ forloop.index }}. {{ publication.title }}</strong></p>
@@ -14,7 +14,7 @@ author_profile: true
   <p><a href="{{ publication.url }}">More Info</a></p>
 {% endfor %}
 
-## Journal Articles
+<h2 class="journal-heading">Journal Articles</h2>
 {% assign journal_papers = site.publications | where: "category", "journal" | sort: "date" | reverse %}
 {% for publication in journal_papers %}
   <p><strong>{{ forloop.index }}. {{ publication.title }}</strong></p>
