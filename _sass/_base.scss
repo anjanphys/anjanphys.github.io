@@ -313,3 +313,22 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+.preprint-heading {
+  color: #6b2e2e; // soft warm red-brown
+  background-color: #fceeee;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-weight: 600;
+  margin-bottom: 1em;
+}
+
+.journal-heading {
+  color: #1a3d5d; // calm deep blue
+  background-color: #eaf3f8;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-weight: 600;
+  margin-bottom: 1em;
+}
+
