@@ -14,7 +14,7 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
+
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -27,22 +27,26 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
-      {{ title }}
+    <!-- Numbered, colored title with custom class -->
+    <h2 class="archive__item-title talk-title-custom" itemprop="headline">
+      {{ forloop.index }}. {{ title }}
     </h2>
 
+    <!-- Date -->
     {% if post.date %}
       <p class="page__meta">
-        <i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}
+        <i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}
       </p>
     {% endif %}
 
+    <!-- Venue and Location -->
     {% if post.venue %}
       <p class="archive__item-excerpt" itemprop="description">
         {{ post.type }}, {{ post.venue }}, {{ post.location }}
       </p>
     {% endif %}
 
+    <!-- Embedded PDF or other post content -->
     <div class="archive__item-content">
       {{ post.content }}
     </div>
