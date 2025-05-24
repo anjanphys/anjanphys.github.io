@@ -8,14 +8,15 @@ date: 2023-12-06
 location: "Guwahati, India"
 ---
 
-Title: New regular black holes: geometry, matter sources and shadow profiles <br> <br>
-A new two-parameter, static and spherically symmetric regular geometry is proposed, which, for
-specific parameter choices, represents a geodesically complete, regular black hole. However, unlike
-most regular black holes which have Schwarzschild spacetime as their singular limit, our spacetime
-reduces to a singular, mutated Reissner–Nordstr ̈om geometry, for a particular choice of parameters.
-The required matter (within the framework of General Relativity (GR)) violates the energy con-
-ditions, but not in the entire domain of the radial coordinate. Despite energy condition violation,
-we are able to construct a viable source for our geometry, which involves a nonlinear magnetic
-monopole in a chosen version of nonlinear electrodynamics. An alternative source in braneworld
-gravity is also suggested. Further, we obtain the shadow profile for our geometry and try to
-estimate the metric parameters using recent observational results from the EHT collaboration
+**Title**: *New regular black holes: geometry, matter sources, and shadow profiles*  
+<br>
+
+A new two-parameter, static, and spherically symmetric regular black hole geometry is proposed which, for specific parameter values, is geodesically complete and nonsingular. Unlike most regular black holes that reduce to Schwarzschild spacetime in the singular limit, our solution approaches a singular, mutated Reissner–Nordström geometry for certain parameter choices.
+
+The matter required to support this geometry within General Relativity violates the energy conditions, though not across the entire radial domain. Nevertheless, a viable matter source is constructed using a nonlinear magnetic monopole in a chosen formulation of nonlinear electrodynamics. An alternative realization within braneworld gravity is also suggested.
+
+We further compute the shadow profile of this black hole and explore how recent observational data from the Event Horizon Telescope (EHT) collaboration can constrain the model parameters.
+
+---
+
+<iframe src="/files/ICGC_AK_Presentation.pdf" width="100%" height="700px" style="border: 1px solid #ccc;" allow="autoplay"></iframe>
