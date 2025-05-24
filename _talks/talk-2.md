@@ -8,7 +8,8 @@ date: 2025-01-02
 location: "Pilani, India"
 ---
 
-**Title**: *Regular black holes from a nonlinear electrodynamics free from fractional powers of \F_{\mu\nu}F^{\mu\nu}\ *  
+**Title**: *Regular black holes from a nonlinear electrodynamics free from fractional powers of*  
 ---
 
-<iframe src="/files/IAGRG_33_Poster_final.pdf" width="100%" height="700px" style="border: 1px solid #ccc;" allow="autoplay"></iframe>
+<iframe src="/files/IAGRG_33_Poster _final.pdf" width="100%" height="700px" style="border: 1px solid #ccc;" allow="autoplay"></iframe>
+
