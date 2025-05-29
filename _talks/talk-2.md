@@ -1,5 +1,5 @@
 ---
-title: "Poster in the 33rd Indian Association for General Relativity and Gravitation (IAGRG-2025)"
+title: "Poster at the 33rd Indian Association for General Relativity and Gravitation (IAGRG-2025)"
 collection: talks
 type: "Poster presentation"
 permalink: /talks/talk-2
