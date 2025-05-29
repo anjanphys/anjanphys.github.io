@@ -1,5 +1,5 @@
 ---
-title: "Talk in a visit to the Indian Association for the Cultivation of Science (IACS)"
+title: "Talk on a visit to the Indian Association for the Cultivation of Science (IACS)"
 collection: talks
 type: "Academic talk"
 permalink: /talks/talk-1
