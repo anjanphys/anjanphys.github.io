@@ -14,8 +14,8 @@ author_profile: true
     {% if publication.eprint %}
       <p><strong>arXiv:</strong> <a href="https://arxiv.org/abs/{{ publication.eprint }}" target="_blank">{{ publication.eprint }}</a></p>
     {% endif %}
-    {% if publication.url contains "doi.org" %}
-      <p><strong>DOI:</strong> <a href="{{ publication.url }}" target="_blank">{{ publication.url }}</a></p>
+    {% if publication.doi %}
+      <p><strong>DOI:</strong> <a href="https://doi.org/{{ publication.doi }}" target="_blank">https://doi.org/{{ publication.doi }}</a></p>
     {% endif %}
   </div>
 {% endfor %}
@@ -34,12 +34,11 @@ author_profile: true
       {% assign arxiv_id = publication.eprint | split: ' ' | first | remove: 'arXiv:' %}
       <p><strong>arXiv:</strong> <a href="https://arxiv.org/abs/{{ arxiv_id }}" target="_blank">{{ arxiv_id }}</a></p>
     {% endif %}
-    {% if publication.url contains "doi.org" %}
-      <p><strong>DOI:</strong> <a href="{{ publication.url }}" target="_blank">{{ publication.url }}</a></p>
+    {% if publication.doi %}
+      <p><strong>DOI:</strong> <a href="https://doi.org/{{ publication.doi }}" target="_blank">https://doi.org/{{ publication.doi }}</a></p>
     {% endif %}
   </div>
 {% endfor %}
-
 
 
 
