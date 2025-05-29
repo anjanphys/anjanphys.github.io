@@ -1,5 +1,5 @@
 ---
-title: "Talk in International Conference on Gravitation and Cosmology (ICGC 2023)"
+title: "Presentation at the International Conference on Gravitation and Cosmology (ICGC 2023)"
 collection: talks
 type: "Conference talk"
 permalink: /talks/talk-1
