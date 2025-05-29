@@ -7,13 +7,28 @@ layout: default
   <p><strong>Venue:</strong> {{ page.venue }}</p>
   <p><strong>Citation:</strong> {{ page.citation }}</p>
 
+  {% if page.eprint %}
+  <p><strong>arXiv:</strong> 
+    <a href="https://arxiv.org/abs/{{ page.eprint }}" target="_blank">{{ page.eprint }}</a>
+  </p>
+  {% endif %}
+
+  {% if page.doi %}
+  <p><strong>DOI:</strong> 
+    <a href="https://doi.org/{{ page.doi }}" target="_blank">https://doi.org/{{ page.doi }}</a>
+  </p>
+  {% endif %}
+
   <section class="abstract">
     <h2>Abstract</h2>
     <p>{{ page.abstract }}</p>
   </section>
 
+  {% if page.paper_url %}
   <section class="download">
     <h2>Download</h2>
     <a href="{{ page.paper_url }}" target="_blank">Download Paper</a>
   </section>
+  {% endif %}
 </article>
+
