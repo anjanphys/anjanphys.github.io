@@ -1,16 +1,8 @@
 ---
 ---
 
-/*
- *    Minimal Mistakes Jekyll Theme
- *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
- *
-*/
-
-@import "vendor/breakpoint/breakpoint"; // media query mixins
+// Core Imports for Minimal Mistakes
+@import "vendor/breakpoint/breakpoint";
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
@@ -39,3 +31,30 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+// Custom styling for publication entries
+.publication-card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  background-color: rgba(255, 255, 255, 0.05); /* semi-transparent */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s ease;
+}
+
+.publication-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.pub-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.pub-meta {
+  font-size: 0.9rem;
+  color: #444;
+  line-height: 1.6;
+}
