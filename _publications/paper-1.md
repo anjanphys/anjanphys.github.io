@@ -2,8 +2,8 @@
 title: "Novel regular black holes: geometry, source and shadow"
 collection: publications
 date: 2024-04-29
-authors: "Anjan Kar (Indian Inst. Tech., Kharagpur), Sayan Kar (Indian Inst. Tech., Kharagpur)"
-venue: "General Relativity and Gravitation 56 (2024) 5, 52"
+authors: "<strong>Anjan Kar</strong>, Sayan Kar"
+venue: "<strong>General Relativity and Gravitation 56 (2024) 5, 52</strong>"
 eprint: "2308.12155"
 doi: "10.1007/s10714-024-03238-4"
 paper_url: "https://doi.org/10.1007/s10714-024-03238-4"
