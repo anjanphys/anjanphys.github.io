@@ -3,7 +3,7 @@ title: "Poster at the 24th International Conference on General Relativity and Gr
 collection: talks
 type: "Poster presentation"
 permalink: /talks/talk-11
-venue: "Scottish Event Campus, Glasgow, UK"
+venue: "Scottish Event Campus"
 date: 2025-07-15
 location: "Glasgow, Scotland, UK"
 ---
