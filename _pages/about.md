@@ -7,21 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-Since August 2022, I am a Ph.D. student at the Department of Physics, Indian Institute of
+Since July 2022, I have been a PhD student at the Department of Physics, Indian Institute of
 Technology, Kharagpur, India. I work under the supervision of
 [Prof. Sayan Kar](https://inspirehep.net/authors/1003662?ui-citation-summary=true).
 
-The focus of my current research is in the field of Gravity, where one searches for
-systems such as regular black holes, wormholes, and other singularity-free solutions 
-via solving Einstein's field equation with some exotic or regular matter sources and 
-studies of their different observable properties.
+My research focuses on strong-field gravity and the observable signatures of compact objects. 
+I study black holes and wormholes beyond the Schwarzschild and Kerr spacetimes, with particular
+emphasis on regular black holes constructed using nonlinear electrodynamics and effective matter models. 
+I have analysed their geometric properties and electromagnetic observables, including black hole shadow 
+characteristics and comparisons with Event Horizon Telescope observations.
 
-During my masters, I worked on black hole shadows of static, spherically symmetric and stationary, axisymmetric
-metrics, which are solutions in some alternative theories of gravity. 
+More recently, my work has shifted toward gravitational-wave modelling of extreme mass-ratio inspiral systems,
+with a strong emphasis on self-force effects in orbital evolution and waveform generation, relevant for future 
+space-based detectors such as LISA.
 
-I care about promoting open, collaborative, and reproducible science. In my free time, you will
-find me reading story books or playing a videogame.
+During my master’s studies, I worked on black hole shadows in static, spherically symmetric and stationary, 
+axisymmetric spacetimes arising in alternative theories of gravity. 
 
+I value open, collaborative, and reproducible research practices. Outside of research, I enjoy reading fiction,
+gardening, and playing video games.
 
 <div style="display: inline-block; vertical-align: top;">
     <h3 style="font-size: 23px;">Research Interest</h3>
@@ -30,6 +34,7 @@ find me reading story books or playing a videogame.
         <li>Black hole shadow</li>
         <li>Gravitational lensing</li>
         <li>Quasinormal modes</li>
+        <li>Self force formalism</li>
         <li>Stability analysis</li>
         <li>Gravitational collapse</li>
         <li>Black hole thermodynamics</li>
