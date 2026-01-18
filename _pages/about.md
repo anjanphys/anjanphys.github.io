@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-### Welcome to Anjan's Page
-
 Since July 2022, I have been a PhD student at the Department of Physics, Indian Institute of
 Technology, Kharagpur, India. I work under the supervision of
 [Prof. Sayan Kar](https://inspirehep.net/authors/1003662?ui-citation-summary=true).
