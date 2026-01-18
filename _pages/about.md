@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Welcome to Anjan's page (অঞ্জনের পৃষ্ঠায় স্বাগতম)"
+title: "অঞ্জনের পৃষ্ঠায় স্বাগতম"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+### Welcome to Anjan's Page
 
 Since July 2022, I have been a PhD student at the Department of Physics, Indian Institute of
 Technology, Kharagpur, India. I work under the supervision of
@@ -28,7 +30,7 @@ I value open, collaborative, and reproducible research practices. Outside of res
 gardening, and playing video games.
 
 <div style="display: inline-block; vertical-align: top;">
-    <h3 style="font-size: 23px;">Research Interest</h3>
+    <h3 style="font-size: 23px;">Research Interests</h3>
     <ul>
         <li>Regular spacetimes</li>
         <li>Black hole shadow</li>
