@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "অঞ্জনের পৃষ্ঠায় স্বাগতম"
+title: "Welcome to my page"
 author_profile: true
 redirect_from: 
   - /about/
