@@ -44,7 +44,7 @@ gardening, and playing video games.
 <div style="display: inline-block; vertical-align: top;">
     <h3 style="font-size: 23px;">Education</h3>
     <ul>
-        <li>Ph.D. in Physics, July 2022 - present <br> Indian Institute of Technology, Kharagpur, India </li>
+        <li>Ph.D. in Physics, July 2022 - July 2026 <br> Indian Institute of Technology, Kharagpur, India </li>
         <li>M.Sc. in Physics, August 2020 - April 2022 <br> Indian Institute of Technology, Kharagpur, India </li>
         <li>B.Sc. in Physics, August 2017 - June 2020 <br> Vidyasagar University, Midnapore, India</li>
     </ul>
