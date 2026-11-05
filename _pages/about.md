@@ -7,19 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-Since July 2022, I have been a PhD student at the Department of Physics, Indian Institute of
-Technology, Kharagpur, India. I work under the supervision of
-[Prof. Sayan Kar](https://inspirehep.net/authors/1003662?ui-citation-summary=true).
+I am currently a Postdoctoral Fellow at the Chennai Mathematical Institute (CMI), India. 
+I received my PhD in Physics from the Department of Physics, Indian Institute of Technology Kharagpur, India, 
+under the supervision of [Prof. Sayan Kar](https://inspirehep.net/authors/1003662?ui-citation-summary=true).
 
-My research focuses on strong-field gravity and the observable signatures of compact objects. 
-I study black holes and wormholes beyond the Schwarzschild and Kerr spacetimes, with particular
-emphasis on regular black holes constructed using nonlinear electrodynamics and effective matter models. 
-I have analysed their geometric properties and electromagnetic observables, including black hole shadow 
-characteristics and comparisons with Event Horizon Telescope observations.
+My current research focuses on the dynamical evolution of black holes, particularly their formation through 
+gravitational collapse and the structure of their interiors. I am interested in understanding the nonlinear 
+dynamics of gravitational and electromagnetic fields in strong-gravity regimes, with particular emphasis on 
+the stability of Cauchy horizons, mass inflation, and the development of spacetime singularities.
 
-More recently, my work has shifted toward gravitational-wave modelling of extreme mass-ratio inspiral systems,
+I am also interested in gravitational-wave modelling of extreme mass-ratio inspiral systems,
 with a strong emphasis on self-force effects in orbital evolution and waveform generation, relevant for future 
 space-based detectors such as LISA.
+
+During my doctoral studies, I investigated black holes and wormholes beyond the standard Schwarzschild and Kerr 
+solutions, with particular emphasis on regular black holes arising from nonlinear electrodynamics and effective matter 
+models. This work involved studying their geometrical properties, stability, thermodynamics, and observational signatures, 
+including black hole shadows and gravitational lensing, with comparisons to Event Horizon Telescope observations.
 
 During my master’s studies, I worked on black hole shadows in static, spherically symmetric and stationary, 
 axisymmetric spacetimes arising in alternative theories of gravity. 
