@@ -21,18 +21,18 @@ repository               : "anjanphys/anjanphys.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Anjan11.jpg"
+  avatar           : "My_image.png"
   name             : "Anjan Kar (অঞ্জন কর)"
   pronouns         : # example: "he/him"  
-  bio              : "Research Scholar"
-  location         : "Kharagpur, India"
-  employer         : "Indian Institute of Technology Kharagpur"
+  bio              : "Postdoc"
+  location         : "Chennai, India"
+  employer         : "Chennai Mathematical Institute"
   uri              : # URL
   email            : "anjankar.phys@gmail.com" 
 
   # Academic websites
   inspirehep       : "https://inspirehep.net/authors/2742955?ui-citation-summary=true"
-  googlescholar    : "https://scholar.google.com/citations?user=bC7bXswAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=_9QiWPwAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0009-8623-3596"
   semantic         : # URL
