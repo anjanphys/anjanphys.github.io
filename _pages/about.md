@@ -16,9 +16,8 @@ gravitational collapse and the structure of their interiors. I am interested in 
 dynamics of gravitational and electromagnetic fields in strong-gravity regimes, with particular emphasis on 
 the stability of Cauchy horizons, mass inflation, and the development of spacetime singularities.
 
-I am also interested in gravitational-wave modelling of extreme mass-ratio inspiral systems,
-with a strong emphasis on self-force effects in orbital evolution and waveform generation, relevant for future 
-space-based detectors such as LISA.
+I am also interested in black hole perturbation theory and gravitational-wave modelling of extreme mass-ratio 
+inspiral systems considering self-force effects in orbital evolution and waveform generation.
 
 During my doctoral studies, I investigated black holes and wormholes beyond the standard Schwarzschild and Kerr 
 solutions, with particular emphasis on regular black holes arising from nonlinear electrodynamics and effective matter 
@@ -34,15 +33,10 @@ gardening, and playing video games.
 <div style="display: inline-block; vertical-align: top;">
     <h3 style="font-size: 23px;">Research Interests</h3>
     <ul>
-        <li>Regular spacetimes</li>
+        <li> Dynamical evolution of black holes</li>
+        <li>Black hole perturbation</li>
+        <li>Gravitational-wave modelling of EMRI</li>
         <li>Black hole shadow</li>
-        <li>Gravitational lensing</li>
-        <li>Quasinormal modes</li>
-        <li>Self force formalism</li>
-        <li>Stability analysis</li>
-        <li>Gravitational collapse</li>
-        <li>Black hole thermodynamics</li>
-        <li>Rotating spacetimes</li>
     </ul>
 </div>
 <div style="display: inline-block; vertical-align: top;">
